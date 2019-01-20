@@ -1,0 +1,2 @@
+This is my document
+and im learning GIT and version controal system
